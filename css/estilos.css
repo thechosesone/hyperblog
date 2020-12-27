@@ -17,3 +17,10 @@ body  {
     font-size: 20px;
 
 }
+
+.cabecera {
+    text-align: left;
+    background-color: blueviolet;
+    color: whitesmoke;
+    padding: 24px 64px;
+}
